@@ -1,5 +1,5 @@
 "use strict";
-// Devoloped By ash
+// Devoloped By 1937
 // discord.gg/1937 1978
 // duckevils rush zons ash 
 import tls from 'tls';
